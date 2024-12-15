@@ -1,7 +1,7 @@
 # Amazon Valid Email Checker
 # 亚马逊有效电子邮件检查器
 
-![Amazon Valid Email Checker]()
+![Amazon Valid Email Checker](https://raw.githubusercontent.com/alexrony21/Amazon-Valid-Email-Checker/refs/heads/main/Amazon_Valid_Email_Checker.png)
 
 ## Features
 ## 特征
